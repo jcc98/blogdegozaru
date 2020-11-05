@@ -1,4 +1,4 @@
-baseURL = "blogdegozaru.netlify.app"
+baseURL = ""
 languageCode = "ja"
 title = "２２歳の外人のブロッグでござる"
 theme = "ananke"
