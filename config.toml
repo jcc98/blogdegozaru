@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "blogdegozaru.netlify.app"
+languageCode = "ja"
 title = "２２歳の外人のブロッグでござる"
 theme = "ananke"
 disqusShortname = "disqus_g1dkq7bppD"
