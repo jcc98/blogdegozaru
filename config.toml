@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "２２歳の外人のブロッグでござる"
+theme = "ananke"
+disqusShortname = "disqus_g1dkq7bppD"
+hasCJKLanguage = true
+summaryLength = 100
+[params]
+  site_logo = "/hissho.png"
+  commentoEnable = true
+  show_reading_time = true
+  background_color_class = "bg-washed-yellow"
+
