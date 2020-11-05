@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ２２歳の外人のブロッグでござる</title>
-    <link>https://blogdegozaru.netlify.app/posts/</link>
+    <link>http://example.org/posts/</link>
     <description>Recent content in Posts on ２２歳の外人のブロッグでござる</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -22,10 +22,10 @@
     
     <item>
       <title>ファースト投稿でござる</title>
-      <link>https://blogdegozaru.netlify.app/my-first-post/</link>
+      <link>http://example.org/posts/my-first-post/</link>
       <pubDate>Tue, 03 Nov 2020 19:30:24 +0100</pubDate>
       
-      <guid>https://blogdegozaru.netlify.app/</guid>
+      <guid>http://example.org/posts/</guid>
       <description>カナダ人である某氏に刺激を受けて、自分のブロッグを作ろうかと思いました。私生活についてや、記す時の心境云々を書こうかっていう感じなんです。 当時の日本語ってこんな感じだったのか・・とか、こういう辛い体験</description>
     </item>
     
