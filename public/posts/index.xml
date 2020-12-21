@@ -2,31 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ２２歳の外人のブロッグでござる</title>
-    <link>http://example.org/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on ２２歳の外人のブロッグでござる</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2020 20:55:39 +0100</lastBuildDate>
+    <language>ja</language>
+    <lastBuildDate>Sat, 07 Nov 2020 16:54:41 +0100</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>自意識過剰や自我の落とし穴</title>
+      <link>/posts/my-third-post/</link>
+      <pubDate>Sat, 07 Nov 2020 16:54:41 +0100</pubDate>
+      
+      <guid>/posts/my-third-post/</guid>
+      <description>子供のころから自意識過剰が半端なくて、それですごく苦しんできたなって遡ってみると思ったりはする。 みんなはもちろん、ある程度これをやったら、どう思われるのかなっていうのがあるけど、自分の場合は結構激しか</description>
+    </item>
+    
+    <item>
       <title>コロナーが生じる個人的な苦難と、数年前の遡り</title>
-      <link>https://blogdegozaru.netlify.app/my-second-post/</link>
+      <link>/posts/my-second-post/</link>
       <pubDate>Tue, 03 Nov 2020 20:55:39 +0100</pubDate>
       
-      <guid>http://example.org/posts/my-second-post/</guid>
+      <guid>/posts/my-second-post/</guid>
       <description>今年中に、ワーホリで一年間日本へ滞在するつもりだったけど、コロナでそれが駄目になりました。コロナーが蔓延る直前に、お父さんは失業しました。ワーホリ行けるようの最低資金上げるぞって去年言われたけど、失業</description>
     </item>
     
     <item>
       <title>ファースト投稿でござる</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Tue, 03 Nov 2020 19:30:24 +0100</pubDate>
       
-      <guid>http://example.org/posts/</guid>
-      <description>カナダ人である某氏に刺激を受けて、自分のブロッグを作ろうかと思いました。私生活についてや、記す時の心境云々を書こうかっていう感じなんです。 当時の日本語ってこんな感じだったのか・・とか、こういう辛い体験</description>
+      <guid>/posts/my-first-post/</guid>
+      <description>カナダ人である某氏から刺激を受けて、自分のブロッグを作ろうかと思いました。私生活についてや、記す時の心境云々を書こうかっていう感じなんです。 当時の日本語ってこんな感じだったのか・・とか、こういう辛い体</description>
     </item>
     
   </channel>
